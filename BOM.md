@@ -82,9 +82,12 @@ BOM for HopeJr/Homunculus
 
 ## Velcro straps
 
-| Size (width x lenght) | Quantity | Reference
+| Size (width x length) | Quantity | Reference
 |-|-|-
-| X | X | 
+| 20mm x forearm diameter | 2 | [Amazon](https://a.co/d/8bawLVo)
+| 20mm x shoulder diameter | 2 | [Amazon](https://a.co/d/8bawLVo)
+| 20mm x half-torso diameter | 2 | [Amazon](https://a.co/d/8bawLVo)
+
 
 
 ## PCB
@@ -94,8 +97,8 @@ Get from JLCPCB X
 
 | Item | Specifications | Quantity | Reference
 |-|-|-|-
-| Magnets |  diameter : 3mm | X | [Umagnets](https://www.umagnets.com/p/3mm-x-2mm-diametrically-magnetized-neodymium-disc-magnet-n38-small-powerful-rare-earth-round-magnets-for-craft/)
-| SS49E linear hall sensors | N/A | X | [Amazon](https://www.amazon.fr/ALLECIN-Capteur-Linéaire-Détecteur-Magnétique/dp/B0CZ6RL4B2/ref=sr_1_1?crid=1MNN6GQAUIQ47&dib=eyJ2IjoiMSJ9.Bs1Vs78XGr-athL9cmo2IHzH1Xhu5Armrwx9WqBJOppGqC8EAHc7nAupm7tY30lSqJHuWCTibARPGqrFmsMOGCpJsSW8hGdFRKGeRfXl4HVonQRK1dXL4Ozmi4zgd6JQy9LW2tagn60KUQezm8goOO68cjAUQlixwCcArEbSXo7hDHEr1hm7sAvsVPYHGKOy9u_o-DhIC9vKNsZfISDii7t297P-u7QF73FbmP5sXMM9x4wL8E1v12dcpZPcg2f5aD4TCAgbQuhsY5uba-YOvSnkTKXTatOvreZMK0IWWt4.gpeIGQpgalZ9L8lLbP4yvji8yxfIW-YCdQjgv33pVx8&dib_tag=se&keywords=ss49e&qid=1747215849&s=industrial&sprefix=ss49e%2Cindustrial%2C75&sr=1-1&th=1)
+| Magnets |  diameter : 3mm | 23 | [Umagnets](https://www.umagnets.com/p/3mm-x-2mm-diametrically-magnetized-neodymium-disc-magnet-n38-small-powerful-rare-earth-round-magnets-for-craft/)
+| SS49E linear hall sensors | N/A | 28 | [Amazon](https://www.amazon.fr/ALLECIN-Capteur-Linéaire-Détecteur-Magnétique/dp/B0CZ6RL4B2/ref=sr_1_1?crid=1MNN6GQAUIQ47&dib=eyJ2IjoiMSJ9.Bs1Vs78XGr-athL9cmo2IHzH1Xhu5Armrwx9WqBJOppGqC8EAHc7nAupm7tY30lSqJHuWCTibARPGqrFmsMOGCpJsSW8hGdFRKGeRfXl4HVonQRK1dXL4Ozmi4zgd6JQy9LW2tagn60KUQezm8goOO68cjAUQlixwCcArEbSXo7hDHEr1hm7sAvsVPYHGKOy9u_o-DhIC9vKNsZfISDii7t297P-u7QF73FbmP5sXMM9x4wL8E1v12dcpZPcg2f5aD4TCAgbQuhsY5uba-YOvSnkTKXTatOvreZMK0IWWt4.gpeIGQpgalZ9L8lLbP4yvji8yxfIW-YCdQjgv33pVx8&dib_tag=se&keywords=ss49e&qid=1747215849&s=industrial&sprefix=ss49e%2Cindustrial%2C75&sr=1-1&th=1)
 | JSTS (cables) | 3 pins - length : 10cm | X | [AliExpress](https://fr.aliexpress.com/item/1005007218127653.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=61110689587&aff_fcid=2334e60433974ad994e9f730394b13c3-1747322012534-07468-_EvdoJua&tt=MG&aff_fsk=_EvdoJua&aff_platform=default&sk=_EvdoJua&aff_trace_key=2334e60433974ad994e9f730394b13c3-1747322012534-07468-_EvdoJua&shareId=61110689587&businessType=ProductDetail&platform=AE&terminal_id=c5bf969a443849edbe60958581978297&afSmartRedirect=y)
 |               | 3 pins - length : 15cm | X | [AliExpress](https://fr.aliexpress.com/item/1005007218127653.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=61110689587&aff_fcid=2334e60433974ad994e9f730394b13c3-1747322012534-07468-_EvdoJua&tt=MG&aff_fsk=_EvdoJua&aff_platform=default&sk=_EvdoJua&aff_trace_key=2334e60433974ad994e9f730394b13c3-1747322012534-07468-_EvdoJua&shareId=61110689587&businessType=ProductDetail&platform=AE&terminal_id=c5bf969a443849edbe60958581978297&afSmartRedirect=y)
 |               | 3 pins - length : 20cm | X | [AliExpress](https://fr.aliexpress.com/item/1005007218127653.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=61110689587&aff_fcid=2334e60433974ad994e9f730394b13c3-1747322012534-07468-_EvdoJua&tt=MG&aff_fsk=_EvdoJua&aff_platform=default&sk=_EvdoJua&aff_trace_key=2334e60433974ad994e9f730394b13c3-1747322012534-07468-_EvdoJua&shareId=61110689587&businessType=ProductDetail&platform=AE&terminal_id=c5bf969a443849edbe60958581978297&afSmartRedirect=y)
