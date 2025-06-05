@@ -91,7 +91,7 @@ BOM for HopeJr/Homunculus
 
 
 ## PCB
-Go to PCB, create an account for JLCPCB and place an order, add gerber file and select PCB assembly, in the next screen paste BOM and POS for teleop device and connectors
+Create an account for JLCPCB and place an order, add gerber file and select PCB assembly, in the next screen paste BOM and POS for teleop device and connectors
 
 ## Encoders
 
