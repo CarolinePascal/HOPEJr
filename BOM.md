@@ -18,9 +18,8 @@ BOM for HopeJr/Homunculus
 |------------------|---------|------------|
 | URT-1 board       | 2    | [AliExpress](https://fr.aliexpress.com/item/1005008295936678.html?spm=a2g0o.productlist.main.6.9e7156bc1NdD9y&algo_pvid=95d62ddb-afef-4601-901d-54f76de59d0e&algo_exp_id=95d62ddb-afef-4601-901d-54f76de59d0e-5&pdp_ext_f=%7B%22order%22%3A%225%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%218.89%218.89%21%21%219.91%219.91%21%40211b6c1717491141782881954e8372%2112000044526097191%21sea%21FR%210%21ABX&curPageLogUid=WBixA7esURQq&utparam-url=scene%3Asearch%7Cquery_from%3A)
 | Waveshare servo driver board     | 2  | [Amazon](https://amzn.eu/d/hYl6g60) [AliExpress](https://fr.aliexpress.com/item/1005006054189812.html?gatewayAdapt=glo2fra)
-| 12V 5A power supply | 2    | [Amazon](https://amzn.eu/d/9yNCEuk)
+| 12V 5A power supply | 2    | [Amazon](https://amzn.eu/d/7MpnTSB)
 | 5V 4A power supply | 2     | [Amazon](https://amzn.eu/d/9IXxrc8)
-| DC power adapter | 2 |
 
 ### Nuts & Bolts:
 
