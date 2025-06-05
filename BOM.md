@@ -17,16 +17,16 @@ BOM for HopeJr/Homunculus
 | Model            | Quantity  | References |
 |------------------|---------|------------|
 | URT-1 board       | 2    | [AliExpress](https://fr.aliexpress.com/item/1005008295936678.html?spm=a2g0o.productlist.main.6.9e7156bc1NdD9y&algo_pvid=95d62ddb-afef-4601-901d-54f76de59d0e&algo_exp_id=95d62ddb-afef-4601-901d-54f76de59d0e-5&pdp_ext_f=%7B%22order%22%3A%225%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%218.89%218.89%21%21%219.91%219.91%21%40211b6c1717491141782881954e8372%2112000044526097191%21sea%21FR%210%21ABX&curPageLogUid=WBixA7esURQq&utparam-url=scene%3Asearch%7Cquery_from%3A)
-| Waveshare servo driver board     | 2  | [Amazon](https://www.amazon.fr/Waveshare-Integrates-Control-Applicable-Integrate/dp/B0CJ6TP3TP) [AliExpress](https://fr.aliexpress.com/item/1005006054189812.html?gatewayAdapt=glo2fra)
-| 12V 5A power supply | 2    | [Amazon](https://www.amazon.fr/LEDMO-Alimentation-Adaptateur-Transformateurs-Chargeur/dp/B07PGLXK4X)
-| 5V 4A power supply | 2     | [Amazon](https://www.amazon.fr/Chargeur-adaptateur-dalimentation-différents-appareils/dp/B01HRR9GY4)
+| Waveshare servo driver board     | 2  | [Amazon](https://amzn.eu/d/hYl6g60) [AliExpress](https://fr.aliexpress.com/item/1005006054189812.html?gatewayAdapt=glo2fra)
+| 12V 5A power supply | 2    | [Amazon](https://amzn.eu/d/9yNCEuk)
+| 5V 4A power supply | 2     | [Amazon](https://amzn.eu/d/9IXxrc8)
 | DC power adapter | 2 |
 
 ### Nuts & Bolts:
 
 | Size | Item | Quantity | Reference
 |-|-|-|-
-| M3 | screws set | 1 | [Amazon](https://www.amazon.fr/Hexagonale-Inoxydable-Boulons-Cylindrique-Assortiment/dp/B0B3MGZ7T2/ref=sr_1_4?crid=1XZJVVYYZEUEY&dib=eyJ2IjoiMSJ9.ncEYDTF2_2SbvcA8soO_ZRIFfUv5YQ2qz8eEfy-SlvvShvZCkkWoe6IgsUGU7SS07EnShROu8RZ6cCdrp4IB9Aws-CDwdGVGDD1mud0X86ZGqCRlSEL4jfjHZbWW1536i6I5M2oWJmazLj2a5S_1vlYafIZmJEFYJ7wLI8si9JjAt2B0mGs_aqZGmAuOym3W-ZVbaua0RnRyUkLtmUNfi4GP7CKpNEAAzaRt5Li_TNuU7jIBRKfbkiTsME1qLlx0ElyXd7C_58fjaUarGGIgrxKB9MqZbhBnybFFSgOF1es.t8OasPlS9WFqoBywk4WnQpOzXcP8M4CAjV0Esu6yipQ&dib_tag=se&keywords=m3%2Bscrew%2Bset&qid=1747066791&s=industrial&sprefix=m3%2Bscrew%2Bset%2Cindustrial%2C67&sr=1-4&th=1)
+| M3 | screws set | 1 | [Amazon](https://amzn.eu/d/io5NaX3)
 | M4 | nuts set    | 1 | [Amazon](https://www.amazon.fr/-/en/dp/B0D1V96WXT)
 || 65mm screws | 4 | [Amazon](https://amzn.eu/d/41AhVIU)
 || 50mm screws | X |[Amazon](https://amzn.eu/d/8G91txy)
@@ -63,8 +63,8 @@ BOM for HopeJr/Homunculus
 
 |Item| Quantity | Reference
 |-|-|-
-| PTFE tube | 1 | [Amazon](https://www.amazon.fr/Longueur-PTFE-Tuyau-imprimante-RepRap/dp/B012T96HIS/ref=sr_1_5?crid=12E90BG1ARI2Q&dib=eyJ2IjoiMSJ9.fSJAol_jmCwRUK-TqZMjCH-7A_jubOnqgXY6bwKuiEnNPEd4wCCjwadHrP571RYuVeNAh3YK8rtVoxanPGFeYms7mPQYlVFZNqZL-saDiM8er82kHigSzj33fYZMOTrD_xtsoZpDXzODrsD5IF8eNmaXtg-QgM9vYWrA3SH7YyKYC6wKGxVRVvyratXtg7OQgoUIbKrv0PXZdnAEUtdDF_M-JqXXKsPrHhkGCpM1W6YInS8tCUwPXKk_atnGnm6BrEDWUzaLq7bYePtRLHDHhdh_L78gR7PULFgE7D4vaGM.XeDSEjuu_Doi1qIUucUw4sYlOznuSJnfmalE43cZXYg&dib_tag=se&keywords=ptfe+tube+3mm+od&qid=1747148355&s=industrial&sprefix=ptfe+tube+3mm+od%2Cindustrial%2C63&sr=1-5)
-| Finger protectors | 10 (1/finger) | [Amazon](https://www.amazon.fr/Protection-pour-doigts-guitare-anti-glisse/dp/B0C86FRVVQ/ref=sr_1_4_sspa?crid=2WRKZ5PIVYJFV&dib=eyJ2IjoiMSJ9.Zs3eA2VNMDUjfsx6NkdiC8l_q_bA8CLSRcXPFrfJGMyTqJJlVi3KzhPjkDJjX2JF7xQ3AxT6PdFriLieNfwefehTxiusbrByOPhzwA7sOi90Hhnmg0bueL6hmbeXjqMOi_ni7MT11UbBf91clQWZa1bGpYk8c2fX32fZnkcrUM_eESD5uRjSTeBc4yHjDZJeCsnfxy1da6Zf3Zryq3wwE5MOL8jV4Y8D3T4RiFnhkbuGHLphc62PEbnEB27ZAfDpaEIQfVIiYJuiS9hqV6Z4oyMeisWxUCj6ONMCrjdKj1U.8UemV1AlL1Bz5TTSoUK0RGGAoEgLkQ5KG0NLQvlSjyo&dib_tag=se&keywords=finger+protector+guitar&qid=1747151150&sprefix=finger+protector+guitar%2Caps%2C77&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+| PTFE tube | 1 | [Amazon](https://amzn.eu/d/fZaQyIG)
+| Finger protectors | 10 (1/finger) | [Amazon](https://amzn.eu/d/dV4cPsd)
 
 # Homunculus Teleop
 
@@ -72,7 +72,7 @@ BOM for HopeJr/Homunculus
 
 | Size | Item | Quantity | Reference 
 |-|-|-|-
-| M2 | screw set | 1 | [Amazon](https://www.amazon.fr/Pièces-Fraisée-Boulons-rondelles-Inoxydable/dp/B0DD7G2W25/ref=sr_1_4?crid=VLCOZF294FQT&dib=eyJ2IjoiMSJ9.E-NUYpJmJpcHjq3_i_KklxPx6dN5vk6qtQKQJJfhRQOUlwPMVimRDm3DcJaAmXZ-CByX4JcrZU1aYTmjHYbl_MkUYfIS33d9mi4JSXBMT7PjN9s8rgMTk2DahdvYWcB8fvCiGMUBZf-Fg67EoRGH9Bg8JpVD2bYHCs3It4QISyzf59EGovUcumxXgyso07Wis-thCJ8KNNR_nmMj27_OKz24rWJXUNztpamQvQoM8nA.fY0kXhBfGcLclc3azgwRC7exKyLVl4-r7Bws73zdU4U&dib_tag=se&keywords=m2+screw+set+torx&qid=1747066649&s=hi&sprefix=m2+screw+set+torx%2Cdiy%2C57&sr=1-4)
+| M2 | screw set | 1 | [Amazon](https://amzn.eu/d/cVf2toH)
 
 ## Bearings
 
@@ -98,8 +98,8 @@ Get from JLCPCB X
 | Item | Specifications | Quantity | Reference
 |-|-|-|-
 | Magnets |  diameter : 3mm | 23 | [Umagnets](https://www.umagnets.com/p/3mm-x-2mm-diametrically-magnetized-neodymium-disc-magnet-n38-small-powerful-rare-earth-round-magnets-for-craft/)
-| SS49E linear hall sensors | N/A | 28 | [Amazon](https://www.amazon.fr/ALLECIN-Capteur-Linéaire-Détecteur-Magnétique/dp/B0CZ6RL4B2/ref=sr_1_1?crid=1MNN6GQAUIQ47&dib=eyJ2IjoiMSJ9.Bs1Vs78XGr-athL9cmo2IHzH1Xhu5Armrwx9WqBJOppGqC8EAHc7nAupm7tY30lSqJHuWCTibARPGqrFmsMOGCpJsSW8hGdFRKGeRfXl4HVonQRK1dXL4Ozmi4zgd6JQy9LW2tagn60KUQezm8goOO68cjAUQlixwCcArEbSXo7hDHEr1hm7sAvsVPYHGKOy9u_o-DhIC9vKNsZfISDii7t297P-u7QF73FbmP5sXMM9x4wL8E1v12dcpZPcg2f5aD4TCAgbQuhsY5uba-YOvSnkTKXTatOvreZMK0IWWt4.gpeIGQpgalZ9L8lLbP4yvji8yxfIW-YCdQjgv33pVx8&dib_tag=se&keywords=ss49e&qid=1747215849&s=industrial&sprefix=ss49e%2Cindustrial%2C75&sr=1-1&th=1)
-| JSTS (cables) | 3 pins - length : 10cm | X | [AliExpress](https://fr.aliexpress.com/item/1005007218127653.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=61110689587&aff_fcid=2334e60433974ad994e9f730394b13c3-1747322012534-07468-_EvdoJua&tt=MG&aff_fsk=_EvdoJua&aff_platform=default&sk=_EvdoJua&aff_trace_key=2334e60433974ad994e9f730394b13c3-1747322012534-07468-_EvdoJua&shareId=61110689587&businessType=ProductDetail&platform=AE&terminal_id=c5bf969a443849edbe60958581978297&afSmartRedirect=y)
+| SS49E linear hall sensors | N/A | 28 | [Amazon](https://amzn.eu/d/aemjs7f)
+| JSTS cables | 3 pins - length : 10cm | X | [AliExpress](https://fr.aliexpress.com/item/1005007218127653.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=61110689587&aff_fcid=2334e60433974ad994e9f730394b13c3-1747322012534-07468-_EvdoJua&tt=MG&aff_fsk=_EvdoJua&aff_platform=default&sk=_EvdoJua&aff_trace_key=2334e60433974ad994e9f730394b13c3-1747322012534-07468-_EvdoJua&shareId=61110689587&businessType=ProductDetail&platform=AE&terminal_id=c5bf969a443849edbe60958581978297&afSmartRedirect=y)
 |               | 3 pins - length : 15cm | X | [AliExpress](https://fr.aliexpress.com/item/1005007218127653.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=61110689587&aff_fcid=2334e60433974ad994e9f730394b13c3-1747322012534-07468-_EvdoJua&tt=MG&aff_fsk=_EvdoJua&aff_platform=default&sk=_EvdoJua&aff_trace_key=2334e60433974ad994e9f730394b13c3-1747322012534-07468-_EvdoJua&shareId=61110689587&businessType=ProductDetail&platform=AE&terminal_id=c5bf969a443849edbe60958581978297&afSmartRedirect=y)
 |               | 3 pins - length : 20cm | X | [AliExpress](https://fr.aliexpress.com/item/1005007218127653.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=61110689587&aff_fcid=2334e60433974ad994e9f730394b13c3-1747322012534-07468-_EvdoJua&tt=MG&aff_fsk=_EvdoJua&aff_platform=default&sk=_EvdoJua&aff_trace_key=2334e60433974ad994e9f730394b13c3-1747322012534-07468-_EvdoJua&shareId=61110689587&businessType=ProductDetail&platform=AE&terminal_id=c5bf969a443849edbe60958581978297&afSmartRedirect=y)
 |               | 3 pins - length : 30cm | X | [AliExpress](https://fr.aliexpress.com/item/1005007218127653.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=61110689587&aff_fcid=2334e60433974ad994e9f730394b13c3-1747322012534-07468-_EvdoJua&tt=MG&aff_fsk=_EvdoJua&aff_platform=default&sk=_EvdoJua&aff_trace_key=2334e60433974ad994e9f730394b13c3-1747322012534-07468-_EvdoJua&shareId=61110689587&businessType=ProductDetail&platform=AE&terminal_id=c5bf969a443849edbe60958581978297&afSmartRedirect=y)
